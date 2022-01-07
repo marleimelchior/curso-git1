@@ -1,0 +1,7 @@
+teste 
+para 
+ver 
+como 
+vai 
+funcionar 
+com o git pull
